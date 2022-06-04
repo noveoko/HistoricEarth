@@ -2,8 +2,8 @@
 
 ## Epoch Samples
 
-### Epoch 20
-![](Early_Example.png)
+### Epoch 22
+![](Early_Example_22.png)
 
 
 ## Library used for training
