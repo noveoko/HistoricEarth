@@ -1,7 +1,9 @@
 # HistoricEarth
 
 ## Epoch Samples
-soon...
+
+### Epoch 20
+![](Early_Example.png)
 
 
 ## Library used for training
