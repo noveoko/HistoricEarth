@@ -1,6 +1,5 @@
 # HistoricEarth
 
-
-![image info]("Screenshot 2022-06-04 143407.png")
+![title](generated_A_B.png)
 
 Google Earth but 1930s Poland
