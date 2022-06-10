@@ -2,6 +2,10 @@
 
 ## Epoch Samples
 
+### Epoch 72 (128x128)
+
+![](images/72.png)
+
 ### Epoch 27
 ![](images/Early_Example_27.png)
 
