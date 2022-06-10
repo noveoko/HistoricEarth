@@ -4,7 +4,7 @@
 
 ### Epoch 72 (128x128)
 
-![](images/72.png)
+![](epoch_72_ready.png)
 
 ### Epoch 27
 ![](images/Early_Example_27.png)
