@@ -10,9 +10,9 @@ Note: No images from the British WW2 Aerial photo archives were used to train th
 
 ## Epoch Samples
 
-### Epoch 119 (128x128)
+### Epoch 116 (128x128)
 
-![](images/epoch_119_ready.png)
+![](images/epoch_116_ready.png)
 
 ### Epoch 72 (128x128)
 
