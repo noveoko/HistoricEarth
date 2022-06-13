@@ -12,7 +12,7 @@ Note: No images from the British WW2 Aerial photo archives were used to train th
 
 ## Epoch 66 + 11 (128x128)
 
-![](images/epoch_66_11.png)
+![](images/epoch_66_11.png.png)
 
 ### Epoch 122 (128x128)
 
