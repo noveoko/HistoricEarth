@@ -13,12 +13,14 @@ Apply a two-step process to remove all non geographic objects including:
 
 ## Step 1
 ![image annoted with text/glyphs](images/annotated_image.png)
+
 annotation performed using online service: [http://app.roboflow.com]()
 
 For a given MAP input image identify all non-geographical objects 
 
 ## Step 2
 ![Normal map image vs map image with text removed via inpatining](images/normal_vs_removed_text.png)
+
 example manually created using online inpainting service: [https://cleanup.pictures/](https://cleanup.pictures/)
 
 Apply an in-painting algorithm to replace the identified objects with probable background (that which is occluded)
