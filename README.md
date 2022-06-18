@@ -43,3 +43,7 @@ Currently making use of an $8/month Paperspace Gradient Pro plan which is a bit 
 So far I've managed to train 86 epochs. My goal is to train at least 200 epochs and see what it looks like.
 
 Total training time thus far is approx: 10 hours
+
+### Really useful links discovered while working on this project
+
+![Make use of colab features outside of colab](https://github.com/TakahiroDoi/opencv-workaround-for-colab/blob/main/Example_Cv2Workaround.ipynb)

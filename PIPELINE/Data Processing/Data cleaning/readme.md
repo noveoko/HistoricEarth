@@ -24,3 +24,7 @@ For a given MAP input image identify all non-geographical objects
 example manually created using online inpainting service: [https://cleanup.pictures/](https://cleanup.pictures/)
 
 Apply an in-painting algorithm to replace the identified objects with probable background (that which is occluded)
+
+## Links
+
+![Annotated data at Roboflow](https://app.roboflow.com/photo-to-map/old-maps-text-detection/overview)
