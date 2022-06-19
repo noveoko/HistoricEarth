@@ -44,6 +44,12 @@ So far I've managed to train 86 epochs. My goal is to train at least 200 epochs 
 
 Total training time thus far is approx: 10 hours
 
-### Really useful links discovered while working on this project
+## Future Plans
 
-![Make use of colab features outside of colab](https://github.com/TakahiroDoi/opencv-workaround-for-colab/blob/main/Example_Cv2Workaround.ipynb)
+1. Collecting enough early 20th century maps of the entire globe to make simulate the entire Earth as it would've looked from an airplane in 1939.
+2. Building an aerial photo search engine/geolocation tool
+
+
+### Links discovered while working on this project
+
+[Make use of colab features outside of colab](https://github.com/TakahiroDoi/opencv-workaround-for-colab/blob/main/Example_Cv2Workaround.ipynb)
