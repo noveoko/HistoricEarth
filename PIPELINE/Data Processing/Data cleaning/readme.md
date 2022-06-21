@@ -28,3 +28,5 @@ Apply an in-painting algorithm to replace the identified objects with probable b
 ## Links
 
 ![Annotated data at Roboflow](https://app.roboflow.com/photo-to-map/old-maps-text-detection/overview)
+
+[Slice and Stich images](https://github.com/samdobson/image_slicer)

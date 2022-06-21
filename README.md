@@ -53,3 +53,5 @@ Total training time thus far is approx: 10 hours
 ### Links discovered while working on this project
 
 [Make use of colab features outside of colab](https://github.com/TakahiroDoi/opencv-workaround-for-colab/blob/main/Example_Cv2Workaround.ipynb)
+
+[Huge list of remote sensing tools](https://github.com/robmarkcole/satellite-image-deep-learning#image-chippingtiling--merging)
