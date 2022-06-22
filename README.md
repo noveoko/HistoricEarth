@@ -1,6 +1,6 @@
 # HistoricEarth
 
-Imagine flying over any part of Poland as it appeared in 1939. Which town would you visit? Would you recognize a family home or a relatives school yard? My goal with this project is to bring maps to life by making them accesisble like never before by rendering them as aerial photos, just like in Google Earth.
+Imagine flying over any part of the world as it appeared in 1939. Which town would you visit? Would you recognize a family home or a relatives garden plot? My goal with this project is to bring maps to life by making them accesisble like never before by rendering them as aerial photos, just like in Google Earth.
 
 ## Inspiration
 
