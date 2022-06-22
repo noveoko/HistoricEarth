@@ -59,3 +59,5 @@ Total training time thus far is approx: 10 hours
 [List of Related projects](https://www.thoughtco.com/historical-map-overlays-for-google-1422162)
 
 [Elevation Maps](https://maps-for-free.com/)
+
+[Extensive Guide to Polish Map Notations](http://maps.mapywig.org/m/m_documents/PL/WZORY_I_OBJASNIENIA_ZNAKOW_TOPOGRAFICZNYCH_10K_25K_WIG_1931.pdf)
