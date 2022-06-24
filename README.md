@@ -63,3 +63,5 @@ Total training time thus far is approx: 10 hours
 [Extensive Guide to Polish Map Notations](http://maps.mapywig.org/m/m_documents/PL/WZORY_I_OBJASNIENIA_ZNAKOW_TOPOGRAFICZNYCH_10K_25K_WIG_1931.pdf)
 
 [Collection of remote sensing: photos, maps etc.](https://www.davidrumsey.com/)
+
+[Map Scraper](https://github.com/Rburdett4/David-Rumsey-DPLA-Map-Scraper)
