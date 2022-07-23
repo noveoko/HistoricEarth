@@ -21,3 +21,8 @@ http://www.visualizationsoftware.com/3dem/
 
 Blender Point Cloud Add-On
 https://www.youtube.com/watch?v=eXct_7k779Q
+
+Cloud Compare (Free)
+
+I use it to convert LAS to PLY files
+https://www.danielgm.net/cc/
