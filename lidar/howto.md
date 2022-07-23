@@ -29,3 +29,8 @@ https://www.danielgm.net/cc/
 
 ### Convert LAS to PLY using Cloud Compare
 cloudcompare -O <path_to_file> -C_EXPORT_FMT PLY
+
+# Geoportal.pl
+
+## Scale
+According to a screenshot scale of Lidar is 1:2500
