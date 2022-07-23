@@ -1,7 +1,9 @@
 # Lidar
 
-Convert LAZ to LAS
+## Convert LAZ to LAS
+
 [info](https://laszip.org/)
+
 [download](http://www.cs.unc.edu/~isenburg/laszip/download/)
 
 Free Viewer
