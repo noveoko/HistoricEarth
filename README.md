@@ -1,29 +1,25 @@
-# HistoricEarth
+# Explore the World of 1939 with HistoricEarth
 
-Imagine flying over any part of the world as it appeared in 1939. Which town would you visit? Would you recognize a family home or a relatives garden plot? My goal with this project is to bring maps to life by making them accesisble like never before by rendering them as aerial photos, just like in Google Earth.
+Step into the past and take a virtual flight over any part of the world as it appeared in 1939. Discover the charm of historic towns, find family homes, or stroll through your ancestors' gardens. HistoricEarth aims to breathe new life into old maps by rendering them as aerial photos, providing a unique Google Earth-like experience.
 
-## Inspiration
+## Discovering the Past
 
-There is a large database of aerial photography from this period covering Poland held by the British government. Unfortunatly they have very restrictive licenses and charge $20+ per single image. I don't like how they took the Germans WW2 archives and locked them up behind a pay-wall. Such amazing and informative data (historical aerial photos) should be available to anyone, amateur or professional alike. This is my attempt to make use of that.
+Inspired by a vast collection of aerial photographs from the 1930s covering Poland, held by the British government, HistoricEarth seeks to make these valuable historical resources accessible to everyone. Unfortunately, the current licensing restrictions and fees ($20+ per image) put these amazing images out of reach for most. This project is our attempt to break down barriers and make historical aerial photos available to amateurs and professionals alike.
 
-Note: No images from the British WW2 Aerial photo archives were used to train this model
+*Note: No images from the British WW2 Aerial photo archives were used to train this model.*
 
-## Epoch Samples
+## Captivating Epoch Samples
 
-## Epoch 66 + 11 (128x128)
-
+### Epoch 66 + 11 (128x128)
 ![](images/epoch_66_11.png.png)
 
 ### Epoch 122 (128x128)
-
 ![](images/epoch_122_ready.png)
 
 ### Epoch 116 (128x128)
-
 ![](images/epoch_116_ready.png)
 
 ### Epoch 72 (128x128)
-
 ![](images/epoch_72_ready.png)
 
 ### Epoch 27
@@ -32,36 +28,27 @@ Note: No images from the British WW2 Aerial photo archives were used to train th
 ### Epoch 22
 ![](images/Early_Example_22.png)
 
+## Powering the Transformation
 
-## Library used for training
-[Contrastive Unpaired Translation](https://github.com/taesungp/contrastive-unpaired-translation)
+We utilized the [Contrastive Unpaired Translation](https://github.com/taesungp/contrastive-unpaired-translation) library for training our model.
 
-## Training
+## Training Progress
 
-Currently making use of an $8/month Paperspace Gradient Pro plan which is a bit more reliable than Google Colab (free) which I had used on my previous attempts. Due to frustration with constant crashes and other issues that made it a pain, I decided to try out Gradient.
+To enhance reliability and avoid issues encountered with Google Colab (free), we opted for the $8/month Paperspace Gradient Pro plan for our training environment. So far, we've successfully completed 86 epochs, with a goal to reach at least 200 epochs and evaluate the results.
 
-So far I've managed to train 86 epochs. My goal is to train at least 200 epochs and see what it looks like.
+Total training time thus far: approximately 10 hours
 
-Total training time thus far is approx: 10 hours
+## A Vision for the Future
 
-## Future Plans
+1. Expand our collection of early 20th-century maps to cover the entire globe, creating a simulation of Earth as it would have appeared from an airplane in 1939.
+2. Develop an aerial photo search engine and geolocation tool to easily explore the past.
 
-1. Collecting enough early 20th century maps of the entire globe to make simulate the entire Earth as it would've looked from an airplane in 1939.
-2. Building an aerial photo search engine/geolocation tool
+### Useful Resources Discovered During the Project
 
-
-### Links discovered while working on this project
-
-[Make use of colab features outside of colab](https://github.com/TakahiroDoi/opencv-workaround-for-colab/blob/main/Example_Cv2Workaround.ipynb)
-
-[Huge list of remote sensing tools](https://github.com/robmarkcole/satellite-image-deep-learning#image-chippingtiling--merging)
-
-[List of Related projects](https://www.thoughtco.com/historical-map-overlays-for-google-1422162)
-
-[Elevation Maps](https://maps-for-free.com/)
-
-[Extensive Guide to Polish Map Notations](http://maps.mapywig.org/m/m_documents/PL/WZORY_I_OBJASNIENIA_ZNAKOW_TOPOGRAFICZNYCH_10K_25K_WIG_1931.pdf)
-
-[Collection of remote sensing: photos, maps etc.](https://www.davidrumsey.com/)
-
-[Map Scraper](https://github.com/Rburdett4/David-Rumsey-DPLA-Map-Scraper)
+- [Using Colab features outside of Colab](https://github.com/TakahiroDoi/opencv-workaround-for-colab/blob/main/Example_Cv2Workaround.ipynb)
+- [Comprehensive list of remote sensing tools](https://github.com/robmarkcole/satellite-image-deep-learning#image-chippingtiling--merging)
+- [Related projects for inspiration](https://www.thoughtco.com/historical-map-overlays-for-google-1422162)
+- [Free elevation maps](https://maps-for-free.com/)
+- [Extensive guide to Polish map notations](http://maps.mapywig.org/m/m_documents/PL/WZORY_I_OBJASNIENIA_ZNAKOW_TOPOGRAFICZNYCH_10K_25K_WIG_1931.pdf)
+- [David Rumsey Map Collection: remote sensing resources, photos, maps, etc.](https://www.davidrumsey.com/)
+- [Map scraper tool for David Rumsey's collection](https://github.com/Rburdett4/David-Rumsey-DPLA-Map-Scraper)
